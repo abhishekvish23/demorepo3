@@ -1,0 +1,2 @@
+INSERT INTO employees (id, name, department, salary)
+VALUES (4, 'David', 'IT', 62000);
